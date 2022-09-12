@@ -8,9 +8,9 @@
 
 Migrated site: https://github.com/fmiguezo/SkillFactory-PrimerProyecto
 
-:white_check_mark: Description: All UI elements must be componetizable. This implies that we will only have one HTML and all the pages of our site must be in functional React components.
-:white_check_mark:The styles of the site can vary from one release to another, you can implement some CSS library/framework in case they haven't used and they don't necessarily have to look the same from the UI, but they have to meet the same requirements.
-:white_check_mark: The product must be routed with React Router Dom v6. In addition, it must not generate reloading of the site at any time, so it must have the behavior of a SPA (Single Page Application).
+:white_check_mark: Description: All UI elements must be componetizable. This implies that we will only have one HTML and all the pages of our site must be in functional React components.\
+:white_check_mark:The styles of the site can vary from one release to another, you can implement some CSS library/framework in case they haven't used and they don't necessarily have to look the same from the UI, but they have to meet the same requirements.\
+:white_check_mark: The product must be routed with React Router Dom v6. In addition, it must not generate reloading of the site at any time, so it must have the behavior of a SPA (Single Page Application).\
 :white_check_mark: The same requests must be made to the APIs and it must be controlled through the hooks that we have worked on.
 In the Rick & Morty section, a detailed view of each character must be generated (the option to NOT paginate and use only the first 20 results is still valid).
 
