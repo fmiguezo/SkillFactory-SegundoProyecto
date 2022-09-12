@@ -22,12 +22,12 @@ In the Rick & Morty section, a detailed view of each character must be generated
 
 • We installed axios using `npm install axios`.\
 • We installed React Router Dom 6 using `npm install react-router-dom@6`.\
-• We installed Font Awesome to use the same icons as on the original site using `npm i --save @fortawesome/fontawesome-svg-core`, then we installed the free "Brand" icons `npm i --save @fortawesome/free-brands-svg-icons`, and finally we installed the React component using `npm i --save @fortawesome/react-fontawesome@latest`.\
+• We installed Font Awesome to use the same icons as on the original site using `npm i --save @fortawesome/fontawesome-svg-core`, then we installed the free "Brand" icons `npm i --save @fortawesome/free-brands-svg-icons`, and finally we installed the React component using `npm i --save @fortawesome/react-fontawesome@latest`.
 
 #### Improvements:
 
 • We made changes to CSS media queries to improve the responsive operation of the site.\
-• We've added more detail to character cards and differentiated their status and gender with different colors to make it easier to read.\
+• We've added more detail to character cards and differentiated their status and gender with different colors to make it easier to read.
 
 <hr>
 
