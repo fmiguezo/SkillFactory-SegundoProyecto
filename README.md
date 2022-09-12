@@ -145,5 +145,5 @@ So, run `npm start` on your terminal.
 Make sure you are in the right directory before running this command to avoid errors.
 If you are not or if you are not sure you are, cd to the right directory.
 Once the command is done running, your React app will open on your local host on your default browser.
-`https:// local host:3000`
+`https://localhost:3000`
 _Congratulations, you've successfully cloned and started your React app._
